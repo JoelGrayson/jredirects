@@ -1,0 +1,11 @@
+{
+    "name": "jredirects",
+    "author": "Joel Grayson",
+    "main": "./jredirects.sh",
+    "bin": "./jredirects.sh",
+    "version": "1.1.3",
+    "scripts": {
+        "start": "bash jredirects.sh"
+    },
+    "license": "MIT"
+}
